@@ -142,4 +142,7 @@
 </body>
 
 </html>
+<script type="text/javascript">
+alert("Please enable Desktop view on mobile devices for full experience.");
+</script>
 <?php include 'footer.php';?>
