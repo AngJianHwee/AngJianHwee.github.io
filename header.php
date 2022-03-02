@@ -24,8 +24,7 @@
 
 <body class="home">
     <header id="header">
-        <!-- <div id="head" class="parallax" parallax-speed="1"> -->
-        <div id="head">
+        <div id="head" class="parallax" parallax-speed="1">
             <h1 id="logo" class="text-center">
                 <img class="img-circle" src="assets/images/guy.jpg" alt="">
                 <span class="title">Ang Jian Hwee</span>
@@ -34,7 +33,7 @@
             </h1>
         </div>
 
-        <nav class="navbar navbar-default navbar-sticky">
+        <nav class="navbar-default navbar-sticky">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
