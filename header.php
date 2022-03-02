@@ -23,13 +23,6 @@
 </head>
 
 <body class="home">
-    <div class="row">
-                <div class="col-md-12 widget">
-                    <div class="widget-body">
-                        <p>Please enable Desktop view on mobile devices for full experience.</p>
-                    </div>
-                </div>
-            </div>
     <header id="header">
         <div id="head" class="parallax" parallax-speed="1">
             <h1 id="logo" class="text-center">
