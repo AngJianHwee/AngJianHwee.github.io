@@ -1,4 +1,5 @@
 <?php include 'header.php';?>
+<meta name="viewport" content="width=device-width, initial-scale=0.1">
 <!DOCTYPE html>
 <html lang="en">
 
