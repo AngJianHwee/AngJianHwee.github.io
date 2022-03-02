@@ -40,17 +40,17 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
+                        <li class="active"><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="sidebar-left.html">Left Sidebar</a></li>
-                                <li><a href="sidebar-right.html">Right Sidebar</a></li>
-                                <li><a href="single.html">Blog Post</a></li>
+                                <li><a href="sidebar-left.php">Left Sidebar</a></li>
+                                <li><a href="sidebar-right.php">Right Sidebar</a></li>
+                                <li><a href="single.php">Blog Post</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="blog.php">Blog</a></li>
                     </ul>
                 </div>
                 <!--/.nav-collapse -->

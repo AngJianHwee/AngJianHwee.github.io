@@ -30,7 +30,7 @@
                             <div class="entry-meta">
                                 <span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>
                             </div>
-                            <h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+                            <h1 class="entry-title"><a href="single.php" rel="bookmark">Vivamus Lacus Mauris</a></h1>
                         </header>
                         <div class="entry-content">
                             <p><img alt="" src="assets/images/mac.jpg"></p>
