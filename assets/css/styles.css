@@ -11,6 +11,7 @@ body {
 .topspace {
   margin-top: 40px;
 }
+.container { width: @container-desktop !important; }
 /*********************************************************************
 
 
