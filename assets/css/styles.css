@@ -55,7 +55,7 @@ body {
   display: inline-block;
 }
 .navbar-collapse .navbar-nav > li > a {
-  padding: 0px 0px;
+  padding: 20px 30px;
 }
 .dropdown ul.dropdown-menu {
   top: 85%;
