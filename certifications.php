@@ -50,6 +50,7 @@
                     </tbody>
                 </table>
                 <br>
+                <br>
 
             <h2 class="section-title"><span>MOOC</span></h2>
             <div class="table-responsive">
@@ -107,6 +108,7 @@
                     </tbody>
                 </table>
             </div>
+            <br>
             <br>
             <h2 class="section-title"><span>Project</span></h2>
             <div class="table-responsive">
