@@ -25,7 +25,7 @@
     <footer id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 widget">
+                <div class="col-md-8 widget">
                     <h3 class="widget-title">Contact</h3>
                     <div class="widget-body">
                         <p><a href="mailto:angjianhwee@gmail.com">angjianhwee@gmail.com</a><br>
@@ -33,7 +33,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6 widget">
+                <div class="col-md-4 widget">
                     <h3 class="widget-title">Follow me</h3>
                     <div class="widget-body">
                         <p class="follow-me-icons">
