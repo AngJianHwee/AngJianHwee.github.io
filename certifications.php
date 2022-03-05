@@ -47,6 +47,7 @@
             </table>
             <br>
             <br>
+            <br>
             <h2 class="section-title"><span>Guided Project</span></h2>
             <table class="table custom-table">
                 <thead>
@@ -77,6 +78,7 @@
                     </tr>
                 </tbody>
             </table>
+            <br>
             <br>
             <br>
             <h2 class="section-title"><span>MOOC</span></h2>
@@ -138,6 +140,7 @@
                     </tr>
                 </tbody>
             </table>
+            <br>
             <br>
             <br>
             <h2 class="section-title"><span>Certificate of Completion</span></h2>
