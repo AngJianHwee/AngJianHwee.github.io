@@ -1,13 +1,8 @@
-<?php
-echo '
-<html lang="en">
-
 <head>
     <meta charset="utf-8">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <meta name="description" content="">
     <meta name="author" content="Sergey Pozhilov (GetTemplate.com)">
-    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
     <link rel="shortcut icon" href="assets/images/gt_favicon.png">    
 
     <!-- Bootstrap -->
@@ -65,5 +60,3 @@ echo '
     <script src="assets/js/template.js"></script>
 </body>
 
-</html>';
-?>
