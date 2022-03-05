@@ -138,6 +138,26 @@
                     </tr>
                 </tbody>
             </table>
+            <h2 class="section-title"><span>Certificate of Completion</span></h2>
+            <table class="table custom-table">
+                <thead>
+                    <tr>
+                        <th width=100 scope="col">Order</th>
+                        <th width=600 scope="col">Course</th>
+                        <th scope="col">Provider</th>
+                        <!-- <th scope="col">Education</th> -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr scope="row">
+                        <td>01</td>
+                        <td><a href="CertificateOfCompletion_Advanced NLP with Python for Machine Learning.pdf">Advanced NLP with Python for Machine Learning</a></td>
+                        <td>Linkedin Learning</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <br>
     </main>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
