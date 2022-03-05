@@ -25,8 +25,6 @@
 
 <body class="home">
     <main id="main">
-        <br>
-        <br>
         <div class="container">
             <h2 class="section-title"><span>Certification</span></h2>
             <div class="table-responsive">
