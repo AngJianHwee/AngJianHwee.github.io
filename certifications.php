@@ -29,103 +29,102 @@
                         <h2 class="section-title"><span>Certification</span></h2>
             <div class="table-responsive">
                 <table class="table custom-table">
-                    <thead>
-                        <tr>
-                            <th scope="col">Order</th>
-                            <th scope="col">Certificate</th>
-                            <th scope="col">Provider</th>
-                            <!-- <th scope="col">Education</th> -->
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr scope="row">
-                            <td>01</td>
-                            <td><a href="certificate/Oracle Certified Foundations Associate.pdf">Oracle Certified Foundations Associate</a>
-                            </td>
-                            <td>Oracle</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <br>
-                <br>
-
-            <h2 class="section-title"><span>MOOC</span></h2>
-            <div class="table-responsive">
-                <table class="table custom-table">
-                    <thead>
-                        <tr>
-                            <th scope="col">Order</th>
-                            <th scope="col">Course</th>
-                            <th scope="col">Provider</th>
-                            <!-- <th scope="col">Education</th> -->
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr scope="row">
-                            <td>01</td>
-                            <td><a href="https://coursera.org/verify/CX5YPY6LPPQ7">Convolutional Neural Networks in TensorFlowTensorFlow</a>
-                            </td>
-                            <td>DeepLearning.AI</td>
-                        </tr>
-                        <tr scope="row">
-                            <td>02</td>
-                            <td><a href="https://coursera.org/verify/LYQ7WYA2ZHNB">Natural Language Processing in TensorFlow</a>
-                            </td>
-                            <td>DeepLearning.AI</td>
-                            <td>
-                        </tr>
-                        <tr scope="row">
-                            <td>03</td>
-                            <td>                                <a href="https://coursera.org/verify/WL3N772CKBJP">Foundations of Project Management</a>
-                            </td>
-                            <td>Google</td>
-                            <td>
-                        </tr>
-                                                <tr scope="row">
-                            <td>04</td>
-                            <td><a href="https://coursera.org/verify/FCLKM35T5ERF">Using Python to Access Web Data</a>
-                            </td>
-                            <td>University of Michigan</td>
-                        </tr>
-                        <tr scope="row">
-                            <td>05</td>
-                            <td><a href="https://coursera.org/verify/2ZJEPUFDDYLR">Coursera-Intro to Analytic Thinking, Data Science and Data Mining</a>
-                            </td>
-                            <td>University of California, Irvine</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <br>
-            <br>
-            <h2 class="section-title"><span>Project</span></h2>
-            <div class="table-responsive">
-                <table class="table custom-table">
-                    <thead>
-                        <tr>
-                            <th scope="col">Order</th>
-                            <th scope="col">Project</th>
-                            <!-- <th scope="col">Education</th> -->
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr scope="row">
-                            <td>01</td>
-                            <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Fine Tune BERT for Text Classification with TensorFlow</a>
-                            </td>
-                        </tr>
-                        <tr scope="row">
-                            <td>02</td>
-                            <td><a href="https://coursera.org/verify/96PJXB843KQ5">Tweet Emotion Recognition with TensorFlow</a>
-                            </td>
-                        </tr>
-                        <tr scope="row">
-                            <td>03</td>
-                            <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Visualizing Filters of a CNN using TensorFlow</a>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+    <thead>
+        <tr>
+            <th width = 100 scope="col">Order</th>
+            <th width = 700 scope="col">Certificate</th>
+            <th scope="col">Provider</th>
+            <!-- <th scope="col">Education</th> -->
+        </tr>
+    </thead>
+    <tbody>
+        <tr scope="row">
+            <td>01</td>
+            <td><a href="certificate/Oracle Certified Foundations Associate.pdf">Oracle Certified Foundations Associate</a>
+            </td>
+            <td>Oracle</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<br>
+<h2 class="section-title"><span>MOOC</span></h2>
+<div class="table-responsive">
+    <table class="table custom-table">
+        <thead>
+            <tr>
+                <th width = 100 scope="col">Order</th>
+                <th width = 700 scope="col">Course</th>
+                <th scope="col">Provider</th>
+                <!-- <th scope="col">Education</th> -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr scope="row">
+                <td>01</td>
+                <td><a href="https://coursera.org/verify/CX5YPY6LPPQ7">Convolutional Neural Networks in TensorFlowTensorFlow</a>
+                </td>
+                <td>DeepLearning.AI</td>
+            </tr>
+            <tr scope="row">
+                <td>02</td>
+                <td><a href="https://coursera.org/verify/LYQ7WYA2ZHNB">Natural Language Processing in TensorFlow</a>
+                </td>
+                <td>DeepLearning.AI</td>
+                <td>
+            </tr>
+            <tr scope="row">
+                <td>03</td>
+                <td> <a href="https://coursera.org/verify/WL3N772CKBJP">Foundations of Project Management</a>
+                </td>
+                <td>Google</td>
+                <td>
+            </tr>
+            <tr scope="row">
+                <td>04</td>
+                <td><a href="https://coursera.org/verify/FCLKM35T5ERF">Using Python to Access Web Data</a>
+                </td>
+                <td>University of Michigan</td>
+            </tr>
+            <tr scope="row">
+                <td>05</td>
+                <td><a href="https://coursera.org/verify/2ZJEPUFDDYLR">Coursera-Intro to Analytic Thinking, Data Science and Data Mining</a>
+                </td>
+                <td>University of California, Irvine</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<br>
+<h2 class="section-title"><span>Project</span></h2>
+<div class="table-responsive">
+    <table class="table custom-table">
+        <thead>
+            <tr>
+                <th width = 100 scope="col">Order</th>
+                <th scope="col">Project</th>
+                <!-- <th scope="col">Education</th> -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr scope="row">
+                <td>01</td>
+                <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Fine Tune BERT for Text Classification with TensorFlow</a>
+                </td>
+            </tr>
+            <tr scope="row">
+                <td>02</td>
+                <td><a href="https://coursera.org/verify/96PJXB843KQ5">Tweet Emotion Recognition with TensorFlow</a>
+                </td>
+            </tr>
+            <tr scope="row">
+                <td>03</td>
+                <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Visualizing Filters of a CNN using TensorFlow</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
             </div>
         </div>
     </main>
