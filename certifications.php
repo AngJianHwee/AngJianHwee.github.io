@@ -47,9 +47,7 @@
                         </tr>
                     </tbody>
                 </table>
-        <br>
                 <br>
-        <br>
                 <br>
                 <h2 class="section-title"><span>Guided Project</span></h2>
                 <div class="table-responsive">
@@ -82,9 +80,7 @@
                             </tr>
                         </tbody>
                     </table>
-        <br>
                     <br>
-        <br>
                     <br>
                     <h2 class="section-title"><span>MOOC</span></h2>
                     <div class="table-responsive">
@@ -139,7 +135,7 @@
                                 </tr>
                                 <tr scope="row">
                                     <td>07</td>
-                                    <td><a href="https://4cpeusurz@mail.mjj.edu.ge">Introduction to HTML5 
+                                    <td><a href="https://4cpeusurz@mail.mjj.edu.ge">Introduction to HTML5
                                         </a>
                                     </td>
                                     <td>University of Michigan on Coursera</td>
