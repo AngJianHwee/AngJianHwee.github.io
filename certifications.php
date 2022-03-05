@@ -156,7 +156,7 @@
                 <tbody>
                     <tr scope="row">
                         <td>01</td>
-                        <td><a href="CertificateOfCompletion_Advanced NLP with Python for Machine Learning.pdf">Advanced NLP with Python for Machine Learning</a></td>
+                        <td><a href="certificate/CertificateOfCompletion_Advanced NLP with Python for Machine Learning.pdf">Advanced NLP with Python for Machine Learning</a></td>
                         <td>Linkedin Learning</td>
                     </tr>
                 </tbody>
