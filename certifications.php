@@ -83,9 +83,9 @@
                         </tr>
                                                 <tr scope="row">
                             <td>04</td>
-                            <td>Using Python to Access Web Data
+                            <td><a href="https://coursera.org/verify/FCLKM35T5ERF">Using Python to Access Web Data</a>
                             </td>
-                            <td><a href="https://coursera.org/verify/FCLKM35T5ERF">University of Michigan</a></td>
+                            <td>University of Michigan</td>
                         </tr>
                         <tr scope="row">
                             <td>05</td>
