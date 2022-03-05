@@ -26,6 +26,7 @@
 <body class="home">
     <main id="main">
         <br>
+        <br>
         <div class="container">
             <h2 class="section-title"><span>Certification</span></h2>
             <div class="table-responsive">
@@ -46,7 +47,9 @@
                         </tr>
                     </tbody>
                 </table>
+        <br>
                 <br>
+        <br>
                 <br>
                 <h2 class="section-title"><span>Guided Project</span></h2>
                 <div class="table-responsive">
@@ -79,7 +82,9 @@
                             </tr>
                         </tbody>
                     </table>
+        <br>
                     <br>
+        <br>
                     <br>
                     <h2 class="section-title"><span>MOOC</span></h2>
                     <div class="table-responsive">
