@@ -125,6 +125,13 @@
                                     </td>
                                     <td>University of California, Irvine on Coursera</td>
                                 </tr>
+                                <tr scope="row">
+                                    <td>06</td>
+                                    <td><a href="https://coursera.org/verify/AKRD46K8XM4H">Cloud Data Engineering
+</a>
+                                    </td>
+                                    <td>Duke University</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
