@@ -64,33 +64,33 @@
                 <td>01</td>
                 <td><a href="https://coursera.org/verify/CX5YPY6LPPQ7">Convolutional Neural Networks in TensorFlowTensorFlow</a>
                 </td>
-                <td>DeepLearning.AI</td>
+                <td>DeepLearning.AI, Coursera</td>
             </tr>
             <tr scope="row">
                 <td>02</td>
                 <td><a href="https://coursera.org/verify/LYQ7WYA2ZHNB">Natural Language Processing in TensorFlow</a>
                 </td>
-                <td>DeepLearning.AI</td>
+                <td>DeepLearning.AI, Coursera</td>
                 <td>
             </tr>
             <tr scope="row">
                 <td>03</td>
                 <td> <a href="https://coursera.org/verify/WL3N772CKBJP">Foundations of Project Management</a>
                 </td>
-                <td>Google</td>
+                <td>Google, Coursera</td>
                 <td>
             </tr>
             <tr scope="row">
                 <td>04</td>
                 <td><a href="https://coursera.org/verify/FCLKM35T5ERF">Using Python to Access Web Data</a>
                 </td>
-                <td>University of Michigan</td>
+                <td>University of Michigan, Coursera</td>
             </tr>
             <tr scope="row">
                 <td>05</td>
                 <td><a href="https://coursera.org/verify/2ZJEPUFDDYLR">Coursera-Intro to Analytic Thinking, Data Science and Data Mining</a>
                 </td>
-                <td>University of California, Irvine</td>
+                <td>University of California, Irvine, Coursera</td>
             </tr>
         </tbody>
     </table>
