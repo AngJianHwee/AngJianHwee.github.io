@@ -30,9 +30,9 @@
                     <div class="widget-body">
                         <p class="follow-me-icons">
                             <div class="widget-body">
-                                <p><a href="https://www.linkedin.com/in/ang-jian-hwee-331207126/"><i class="fa fa-linkedin-square fa-2"></i></a>
+                                <a href="https://www.linkedin.com/in/ang-jian-hwee-331207126/"><i class="fa fa-linkedin-square fa-2"></i></a>
                                     Linkedin
-                                </p>
+                                
                             </div>
                             <div class="widget-body">
                                 <p><a href="https://github.com/AngJianHwee/"><i class="fa fa-github fa-2"></i></a>
