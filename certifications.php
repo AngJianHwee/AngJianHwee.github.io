@@ -34,18 +34,15 @@
                             <th scope="col">Order</th>
                             <th scope="col">Certificate</th>
                             <th scope="col">Provider</th>
-                            <th scope="col">Link</th>
                             <!-- <th scope="col">Education</th> -->
                         </tr>
                     </thead>
                     <tbody>
                         <tr scope="row">
                             <td>01</td>
-                            <td>Oracle Certified Foundations Associate
+                            <td><a href="certificate/Oracle Certified Foundations Associate.pdf">Oracle Certified Foundations Associate</a>
                             </td>
                             <td>Oracle</td>
-                            <td>
-                                <a href="certificate/Oracle Certified Foundations Associate.pdf">Link</a> </td>
                         </tr>
                     </tbody>
                 </table>
@@ -60,50 +57,41 @@
                             <th scope="col">Order</th>
                             <th scope="col">Course</th>
                             <th scope="col">Provider</th>
-                            <th scope="col">Link</th>
                             <!-- <th scope="col">Education</th> -->
                         </tr>
                     </thead>
                     <tbody>
                         <tr scope="row">
                             <td>01</td>
-                            <td>Convolutional Neural Networks in TensorFlowTensorFlow
+                            <td><a href="https://coursera.org/verify/CX5YPY6LPPQ7">Convolutional Neural Networks in TensorFlowTensorFlow</a>
                             </td>
                             <td>DeepLearning.AI</td>
-                            <td>
-                                <a href="https://coursera.org/verify/CX5YPY6LPPQ7">Link</a> </td>
                         </tr>
                         <tr scope="row">
                             <td>02</td>
-                            <td>Natural Language Processing in TensorFlow
+                            <td><a href="https://coursera.org/verify/LYQ7WYA2ZHNB">Natural Language Processing in TensorFlow</a>
                             </td>
                             <td>DeepLearning.AI</td>
                             <td>
-                                <a href="https://coursera.org/verify/LYQ7WYA2ZHNB">Link</a> </td>
                         </tr>
                         <tr scope="row">
                             <td>03</td>
-                            <td>Foundations of Project Management
+                            <td>                                <a href="https://coursera.org/verify/WL3N772CKBJP">Foundations of Project Management</a>
                             </td>
                             <td>Google</td>
                             <td>
-                                <a href="https://coursera.org/verify/WL3N772CKBJP">Link</a> </td>
                         </tr>
                                                 <tr scope="row">
                             <td>04</td>
                             <td>Using Python to Access Web Data
                             </td>
-                            <td>University of Michigan</td>
-                            <td>
-                                <a href="https://coursera.org/verify/FCLKM35T5ERF">Link</a> </td>
+                            <td><a href="https://coursera.org/verify/FCLKM35T5ERF">University of Michigan</a></td>
                         </tr>
                         <tr scope="row">
                             <td>05</td>
-                            <td>Coursera-Intro to Analytic Thinking, Data Science and Data Mining
+                            <td><a href="https://coursera.org/verify/2ZJEPUFDDYLR">Coursera-Intro to Analytic Thinking, Data Science and Data Mining</a>
                             </td>
                             <td>University of California, Irvine</td>
-                            <td>
-                                <a href="https://coursera.org/verify/2ZJEPUFDDYLR">Link</a> </td>
                         </tr>
                     </tbody>
                 </table>
@@ -117,31 +105,24 @@
                         <tr>
                             <th scope="col">Order</th>
                             <th scope="col">Project</th>
-                            <th scope="col">Link</th>
                             <!-- <th scope="col">Education</th> -->
                         </tr>
                     </thead>
                     <tbody>
                         <tr scope="row">
                             <td>01</td>
-                            <td>Fine Tune BERT for Text Classification with TensorFlow
+                            <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Fine Tune BERT for Text Classification with TensorFlow</a>
                             </td>
-                            <td>
-                                <a href="https://coursera.org/verify/9JQB7FMTRXN6">Link</a> </td>
                         </tr>
                         <tr scope="row">
                             <td>02</td>
-                            <td>Tweet Emotion Recognition with TensorFlow
+                            <td><a href="https://coursera.org/verify/96PJXB843KQ5">Tweet Emotion Recognition with TensorFlow</a>
                             </td>
-                            <td>
-                                <a href="https://coursera.org/verify/96PJXB843KQ5">Link</a> </td>
                         </tr>
                         <tr scope="row">
                             <td>03</td>
-                            <td>Visualizing Filters of a CNN using TensorFlow
+                            <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Visualizing Filters of a CNN using TensorFlow</a>
                             </td>
-                            <td>
-                                <a href="https://coursera.org/verify/9JQB7FMTRXN6">Link</a> </td>
                         </tr>
                     </tbody>
                 </table>
