@@ -103,8 +103,8 @@
         <thead>
             <tr>
                 <th width = 100 scope="col">Order</th>
-                <th scope="col">Project</th>
-                <!-- <th scope="col">Education</th> -->
+                <th width = 600 scope="col">Project</th>
+                <th scope="col">Provider</th>
             </tr>
         </thead>
         <tbody>
@@ -112,16 +112,19 @@
                 <td>01</td>
                 <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Fine Tune BERT for Text Classification with TensorFlow</a>
                 </td>
+                <td>Coursera</td>
             </tr>
             <tr scope="row">
                 <td>02</td>
                 <td><a href="https://coursera.org/verify/96PJXB843KQ5">Tweet Emotion Recognition with TensorFlow</a>
                 </td>
+                <td>Coursera</td>
             </tr>
             <tr scope="row">
                 <td>03</td>
                 <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Visualizing Filters of a CNN using TensorFlow</a>
                 </td>
+                <td>Coursera</td>
             </tr>
         </tbody>
     </table>
