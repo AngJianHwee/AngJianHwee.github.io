@@ -130,7 +130,7 @@
                                     <td><a href="https://coursera.org/verify/AKRD46K8XM4H">Cloud Data Engineering
 </a>
                                     </td>
-                                    <td>Duke University</td>
+                                    <td>Duke University on Coursera</td>
                                 </tr>
                             </tbody>
                         </table>
