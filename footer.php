@@ -39,8 +39,8 @@
                         <p class="follow-me-icons">
                             <a href="https://www.linkedin.com/in/ang-jian-hwee-331207126/"><i class="fa fa-linkedin-square fa-2"></i></a>
                             <a href="https://github.com/AngJianHwee/"><i class="fa fa-github fa-2"></i></a>
-                            <a href=""><i class="fa fa-dribbble fa-2"></i></a>
-                            <a href=""><i class="fa fa-facebook fa-2"></i></a>
+                            <!-- <a href=""><i class="fa fa-dribbble fa-2"></i></a> -->
+                            <!-- <a href=""><i class="fa fa-facebook fa-2"></i></a> -->
                         </p>
                     </div>
                 </div>
