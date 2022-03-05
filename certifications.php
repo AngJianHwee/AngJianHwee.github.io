@@ -97,7 +97,7 @@
 </div>
 <br>
 <br>
-<h2 class="section-title"><span>Project</span></h2>
+<h2 class="section-title"><span>Guided Project</span></h2>
 <div class="table-responsive">
     <table class="table custom-table">
         <thead>
@@ -112,19 +112,19 @@
                 <td>01</td>
                 <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Fine Tune BERT for Text Classification with TensorFlow</a>
                 </td>
-                <td>Coursera</td>
+                <td>Coursera Project Network</td>
             </tr>
             <tr scope="row">
                 <td>02</td>
                 <td><a href="https://coursera.org/verify/96PJXB843KQ5">Tweet Emotion Recognition with TensorFlow</a>
                 </td>
-                <td>Coursera</td>
+                <td>Coursera Project Network</td>
             </tr>
             <tr scope="row">
                 <td>03</td>
                 <td><a href="https://coursera.org/verify/9JQB7FMTRXN6">Visualizing Filters of a CNN using TensorFlow</a>
                 </td>
-                <td>Coursera</td>
+                <td>Coursera Project Network</td>
             </tr>
         </tbody>
     </table>
