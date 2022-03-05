@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php
+echo '
 <html lang="en">
 
 <head>
@@ -64,4 +65,5 @@
     <script src="assets/js/template.js"></script>
 </body>
 
-</html>
+</html>';
+?>
