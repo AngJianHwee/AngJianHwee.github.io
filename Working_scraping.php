@@ -1,6 +1,4 @@
 <?php include 'header.php';?>
-<!DOCTYPE html>
-<html>
 <head><meta charset="utf-8" />
 
 <title>Working_scraping</title>
@@ -14175,5 +14173,4 @@ Message: no such element: Unable to locate element: {&#34;method&#34;:&#34;xpath
  
 
 
-</html>
 <?php include 'footer.php';?>
