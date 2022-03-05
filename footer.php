@@ -44,7 +44,6 @@
                         </p>
                     </div>
                 </div>
-                
                 <!-- <div class="col-md-4 widget">
                     <h3 class="widget-title">Text widget</h3>
                     <div class="widget-body">
