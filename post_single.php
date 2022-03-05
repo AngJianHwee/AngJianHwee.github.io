@@ -26,7 +26,7 @@
             <div class="row topspace">
                 <div class="col-sm-8 col-sm-offset-2">
                     <article class="post">
-<?php include 'Z_jupyter_Working_scraping.php';?>
+                    <?php include 'Z_jupyter_Working_scraping.php';?>
 
                     </article><!-- #post-## -->
                 </div>
