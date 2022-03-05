@@ -56,7 +56,7 @@
     <footer id="underfooter">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 widget">
+                <div class="col-md-6 widget">
                     <div class="widget-body">
                         <p>Choi Kai Yau College, University of Macau</p>
                     </div>
