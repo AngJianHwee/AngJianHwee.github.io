@@ -3,8 +3,7 @@
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <meta name="description" content="">
     <meta name="author" content="Sergey Pozhilov (GetTemplate.com)">
-    <link rel="shortcut icon" href="assets/images/gt_favicon.png">    
-
+    <link rel="shortcut icon" href="assets/images/gt_favicon.png">
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
     <!-- Icons -->
@@ -26,7 +25,6 @@
                 <span class="tagline"><a href="mailto: angjianhwee@gmail.com">angjianhwee@gmail.com</a></span>
             </h1>
         </div>
-
         <nav class="navbar-default navbar-sticky">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -53,10 +51,8 @@
             </div>
         </nav>
     </header>
-    
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
     <script src="assets/js/template.js"></script>
 </body>
-
