@@ -36,7 +36,8 @@
                 <div class="col-md-4 widget">
                     <h3 class="widget-title">Follow me</h3>
                     <div class="widget-body">
-                        <p class="follow-me-icons">
+                        <p>
+                        <!-- <p class="follow-me-icons"> -->
                             <a href="https://www.linkedin.com/in/ang-jian-hwee-331207126/"><i class="fa fa-linkedin-square fa-2"></i></a>
                             <a href="https://github.com/AngJianHwee/"><i class="fa fa-github fa-2"></i></a>
                             <!-- <a href=""><i class="fa fa-dribbble fa-2"></i></a> -->
