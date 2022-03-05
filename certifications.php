@@ -17,7 +17,7 @@
     <!-- <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!-- Fonts -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,600">
     <!-- Custom styles -->
     <link rel="stylesheet" href="assets/css/styles.css">
     <!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
@@ -32,7 +32,7 @@
     <thead>
         <tr>
             <th width = 100 scope="col">Order</th>
-            <th width = 700 scope="col">Certificate</th>
+            <th width = 600 scope="col">Certificate</th>
             <th scope="col">Provider</th>
             <!-- <th scope="col">Education</th> -->
         </tr>
@@ -54,7 +54,7 @@
         <thead>
             <tr>
                 <th width = 100 scope="col">Order</th>
-                <th width = 700 scope="col">Course</th>
+                <th width = 600 scope="col">Course</th>
                 <th scope="col">Provider</th>
                 <!-- <th scope="col">Education</th> -->
             </tr>
