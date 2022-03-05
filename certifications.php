@@ -128,9 +128,16 @@
                                 <tr scope="row">
                                     <td>06</td>
                                     <td><a href="https://coursera.org/verify/AKRD46K8XM4H">Cloud Data Engineering
-</a>
+                                        </a>
                                     </td>
                                     <td>Duke University on Coursera</td>
+                                </tr>
+                                <tr scope="row">
+                                    <td>07</td>
+                                    <td><a href="https://4cpeusurz@mail.mjj.edu.ge">Introduction to HTML5 
+                                        </a>
+                                    </td>
+                                    <td>University of Michigan on Coursera</td>
                                 </tr>
                             </tbody>
                         </table>
