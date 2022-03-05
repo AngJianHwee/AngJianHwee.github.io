@@ -1,6 +1,48 @@
+<?php include 'header.php';?>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Sergey Pozhilov (GetTemplate.com)">
+    <title>Blog post | Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link rel="shortcut icon" href="assets/images/gt_favicon.png">
+    <!-- Bootstrap -->
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+    <!-- Icon font -->
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
+</head>
+
+<body>
+    <main id="main">
+        <div class="container">
+            <div class="row topspace">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <article class="post">
+                        <header class="entry-header">
+                            <div class="entry-meta">
+                                <span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>
+                            </div>
+                            <h1 class="entry-title"><a href="single.php" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+                        </header>
+
+                    </article><!-- #post-## -->
+                </div>
+            </div> <!-- /row post  -->
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8" />
+
+<title>Working_scraping</title>
+
 
 
 
@@ -13089,6 +13131,37 @@ div#notebook {
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="mi">12345</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>12345
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
@@ -14164,4 +14237,8 @@ Message: no such element: Unable to locate element: {&#34;method&#34;:&#34;xpath
 </div>
     </div>
   </div>
+</body>
 
+
+</html>
+<?php include 'footer.php';?>
