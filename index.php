@@ -108,7 +108,7 @@
                     </div> -->
                 </div>
             </div> <!-- /section -->
-            <div class="row section featured topspace">
+            <!-- <div class="row section featured topspace">
                 <h2 class="section-title"><span>Services</span></h2>
                 <div class="row">
                     <div class="col-sm-6 col-md-3">
@@ -132,7 +132,7 @@
                         <p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
                     </div>
                 </div>
-            </div> <!-- / section -->
+            </div> <!-- / section --> -->
         </div> <!-- /container -->
     </main>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
