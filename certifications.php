@@ -96,6 +96,14 @@
                             <td>
                                 <a href="https://coursera.org/verify/FCLKM35T5ERF">Link</a> </td>
                         </tr>
+                        <tr scope="row">
+                            <td>05</td>
+                            <td>Coursera-Intro to Analytic Thinking, Data Science and Data Mining
+                            </td>
+                            <td>University of California, Irvine</td>
+                            <td>
+                                <a href="https://coursera.org/verify/2ZJEPUFDDYLR">Link</a> </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
