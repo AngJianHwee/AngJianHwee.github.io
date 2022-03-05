@@ -132,7 +132,7 @@
                         <p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
                     </div>
                 </div>
-            </div> <!-- / section --> -->
+            </div> / section -->
         </div> <!-- /container -->
     </main>
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
