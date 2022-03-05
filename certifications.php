@@ -134,7 +134,7 @@
                                 </tr>
                                 <tr scope="row">
                                     <td>07</td>
-                                    <td><a href="https://4cpeusurz@mail.mjj.edu.ge">Introduction to HTML5
+                                    <td><a href="https://coursera.org/verify/SY4NEGQXXBA9">Introduction to HTML5
                                         </a>
                                     </td>
                                     <td>University of Michigan on Coursera</td>
