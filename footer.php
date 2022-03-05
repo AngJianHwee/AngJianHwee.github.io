@@ -30,16 +30,7 @@
                     <div class="widget-body">
                         <p class="follow-me-icons">
                             <a href="https://www.linkedin.com/in/ang-jian-hwee-331207126/"><i class="fa fa-linkedin-square fa-2"></i></a>
-                            <div class="widget-body">
-                                <p>
-                                    Linkedin
-                                </p>
-                            </div>
-                            <div class="widget-body">
-                                <p><a href="https://github.com/AngJianHwee/"><i class="fa fa-github fa-2"></i></a>
-                                    Github
-                                </p>
-                            </div>
+                            <a href="https://github.com/AngJianHwee/"><i class="fa fa-github fa-2"></i></a>
                             <!-- <a href=""><i class="fa fa-dribbble fa-2"></i></a> -->
                             <!-- <a href=""><i class="fa fa-facebook fa-2"></i></a> -->
                         </p>
@@ -53,12 +44,13 @@
                         </p>
                     </div>
                 </div>
+                
                 <!-- <div class="col-md-4 widget">
-<h3 class="widget-title">Text widget</h3>
-<div class="widget-body">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-</div>
-</div> -->
+                    <h3 class="widget-title">Text widget</h3>
+                    <div class="widget-body">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
+                    </div>
+                </div> -->
             </div> <!-- /row of widgets -->
         </div>
     </footer>
