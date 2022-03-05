@@ -26,16 +26,8 @@
             <div class="row topspace">
                 <div class="col-sm-8 col-sm-offset-2">
                     <article class="post">
-                        <header class="entry-header">
-                            <div class="entry-meta">
-                                <span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>
-                            </div>
-                            <h1 class="entry-title"><a href="single.php" rel="bookmark">Vivamus Lacus Mauris</a></h1>
-                        </header>
-                        <div class="entry-content">
-                        // <?php include 'Working_scraping.php';?>
+<?php include 'Z_jupyter_Working_scraping.php';?>
 
-                        </div>
                     </article><!-- #post-## -->
                 </div>
             </div> <!-- /row post  -->
