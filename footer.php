@@ -25,7 +25,7 @@
     <footer id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 widget">
+                <div class="col-md-6 widget">
                     <h3 class="widget-title">Follow me</h3>
                     <div class="widget-body">
                         <p class="follow-me-icons">
