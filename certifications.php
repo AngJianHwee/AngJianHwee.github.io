@@ -138,6 +138,13 @@
                         </td>
                         <td>University of Michigan on Coursera</td>
                     </tr>
+                    <tr scope="row">
+                        <td>08</td>
+                        <td><a href="https://coursera.org/verify/EEMWS2CEZBF5">Open Source Software Development Methods
+                            </a>
+                        </td>
+                        <td>The Linux Foundation on Coursera</td>
+                    </tr>
                 </tbody>
             </table>
             <br>
