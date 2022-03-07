@@ -43,6 +43,11 @@
                         <td><a href="certificate/Oracle Certified Foundations Associate.pdf">Oracle Certified Foundations Associate</a></td>
                         <td>Oracle</td>
                     </tr>
+                    <tr scope="row">
+                        <td>02</td>
+                        <td><a href="https://www.hackerrank.com/certificates/e4f38099930f">SQL (Basic)</a></td>
+                        <td>HackerRank</td>
+                    </tr>
                 </tbody>
             </table>
             <br>
