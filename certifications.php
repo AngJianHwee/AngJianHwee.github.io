@@ -45,6 +45,11 @@
                     </tr>
                     <tr scope="row">
                         <td>02</td>
+                        <td><a href="https://www.hackerrank.com/certificates/17802473ef74">SQL (Intermediate)</a></td>
+                        <td>HackerRank</td>
+                    </tr>
+                    <tr scope="row">
+                        <td>03</td>
                         <td><a href="https://www.hackerrank.com/certificates/e4f38099930f">SQL (Basic)</a></td>
                         <td>HackerRank</td>
                     </tr>
