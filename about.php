@@ -29,21 +29,64 @@
                 <!-- Sidebar -->
                 <aside class="col-sm-4 sidebar sidebar-right">
                     <ul class="nav text-right nav-side">
-                        <li class="active"><a href="#ui">UI design</a></li>
-                        <li><a href="#frontend">Frontend development</a></li>
-                        <li><a href="#backend">Backend development</a></li>
-                        <li><a href="#projects">Side projects</a></li>
+                        <li class="active"><a href="#Education">Education</a></li>
+                        <li><a href="#Research Experience">Research Experience</a></li>
+                        <li><a href="#Working Experience">Working Experience</a></li>
                     </ul>
                 </aside>
                 <!-- /Sidebar -->
                 <!-- Article main content -->
                 <article class="col-sm-8 maincontent">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.</p>
-                    <p><img src="assets/images/mac.jpg" alt="" class="" width="100%"></p>
-                    <h3>Necessitatibus</h3>
-                    <p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</p>
-                    <h3>Fugit, laboriosam</h3>
-                    <p>Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?</p>
+                    <h3>Ang Jian Hwee</h3>
+                    <p>
+                        <!-- Cell: <span class="tel">555-666-7777</span><br /> -->
+                        Email: <a class="email" href="megahwee@gmail.com">megahwee@gmail.com</a>
+                    </p>
+                    <p>
+                        Year 3 Malaysia Machine Learning student from mathematical background seeking career in area of Data Scientist and Machine Learning Engineer.
+                    </p>
+                    <br>
+                    <h3 id="Education">Education</h3>
+                    <p>
+                        <h5><b>Bachelor of Mathematics (Statistics and Data Science Stream)</b></h5>
+                        <strong>University of Macau</strong><br>
+                        <strong>CGPA: </strong>3.65/4<br />
+                        <strong>Coursework: </strong>Machine Learning, Natural Language Processing, Information Retrieval and Web Search, Algorithm Design and Analysis, Cloud Computing and Big Data Systems, Applied Statistics<br />
+                    </p>
+                    <p>
+                        <h5><b>MIT MicroMasters Program in Statistics and Data Science</b></h5>
+                        <strong>MITx</strong><br>
+                        <p>
+                            <strong>Coursework: </strong>Fundamentals of Statistics, Probability - The Science of Uncertainty and Data<br />
+                        </p>
+                    </p>
+                    <br>
+                    <h3 id='Research Experience'>Research Experience</h3>
+                    <p>
+                        <h5><b>Deep learning in Prediction of Traffic Accident</b></h5>
+                        <p>University of Macau, 2022 Jan. - Present</p>
+                        <ul>
+                            <li>Seq2seq model with ConvLSTM and Graph Convlution Network to deal with spatio-temporal feature relationship.</li>
+                            <li>Use cross-domain convolution network (CDCN) to capture information between multiple domains at the same time interval</li>
+                        </ul>
+                    </p>
+                    <br>
+                    <h3 id="Working Experience">Working Experience</h3>
+                    <p>
+                        <h5><b>Lyft Back-End Engineering Virtual Experience Program</b></h5>
+                        <p>2022 Feb.</p>
+                        <ul>
+                            <li>Construct UML diagram and write unit test for code refactoring.</li>
+                        </ul>
+                    </p>
+                    <p>
+                        <h5><b>Residential College Assistant</b></h5>
+                        <p>University of Macau, 2020 April. - Present</p>
+                        <ul>
+                            <li>Process student residential data in college with extensive usage of Excel and PowerBI dashboard for report.</li>
+                            <li>Use Python PyPDF2 and BAT for batch extraction and rename of student's photo from PDF to generate photo book.</li>
+                        </ul>
+                    </p>
                 </article>
                 <!-- /Article -->
             </div>
